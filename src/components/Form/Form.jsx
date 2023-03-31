@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./form.scss";
 
 const Form = ({ title, handleSubmit }) => {
   const [email, setEmail] = useState("");
