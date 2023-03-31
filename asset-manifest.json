@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FirebaseLogin/static/css/main.edf5a4b4.css",
-    "main.js": "/FirebaseLogin/static/js/main.2f9da8bd.js",
+    "main.css": "/FirebaseLogin/static/css/main.4abc7df6.css",
+    "main.js": "/FirebaseLogin/static/js/main.2fb1162d.js",
     "index.html": "/FirebaseLogin/index.html",
-    "main.edf5a4b4.css.map": "/FirebaseLogin/static/css/main.edf5a4b4.css.map",
-    "main.2f9da8bd.js.map": "/FirebaseLogin/static/js/main.2f9da8bd.js.map"
+    "main.4abc7df6.css.map": "/FirebaseLogin/static/css/main.4abc7df6.css.map",
+    "main.2fb1162d.js.map": "/FirebaseLogin/static/js/main.2fb1162d.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf5a4b4.css",
-    "static/js/main.2f9da8bd.js"
+    "static/css/main.4abc7df6.css",
+    "static/js/main.2fb1162d.js"
   ]
 }
